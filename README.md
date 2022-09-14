@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<h1>Hi, my name is Ignacio! I am a software developer from Argentina. I am currently learning React.js at Avalith Skill Factory<h1>
+<p>Hi, my name is Ignacio! I am a software developer from Argentina. I am currently learning React.js at Avalith Skill Factory<p>
 
 
 ## 🌐 Socials:
