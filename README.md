@@ -1,6 +1,6 @@
 
 <h1 >💫 About Me</h1>
-<p>Hi, my name is Ignacio! I am a software developer from Argentina<p>
+<p>Hi, my name is Ignacio! I am a front-end developer from Argentina<p>
 
 
 ## 🌐 Socials:
